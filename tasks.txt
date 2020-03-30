@@ -1,0 +1,10 @@
+Prob4,closed,1
+Prob6,closed,5
+Prob7,closed,4
+Prob8,closed,2
+Prob9,closed,3
+Test,closed,4
+Prob2,open,-1
+Prob3,open,-1
+Prob5,open,-1
+Prob4,open,-1
